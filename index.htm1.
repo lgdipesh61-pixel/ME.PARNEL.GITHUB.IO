@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+  <title>My Study Hub</title>
+</head>
+<body>
+  <h1>Welcome to My Study Hub</h1>
+  <p>This site helps students study easily.</p>
+  <ul>
+    <li><a href="#">English Notes</a></li>
+    <li><a href="#">Nepali Notes</a></li>
+    <li><a href="#">Tourism Notes</a></li>
+    <li><a href="#">Hotel Management Notes</a></li>
+  </ul>
+</body>
+</html>
